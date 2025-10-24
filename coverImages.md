@@ -6,8 +6,10 @@
 <img src="Images/Images for 'art'/CI/AA - ASBANERMX.png" width="60%">
 <img src="Images/Images for 'art'/CI/FF - AHv2.png" alt="Heap - Audio Heap vol. 2 Demo Track [Snap Heap Preset Pack]" width="60%">
 <img src="Images/Images for 'art'/CI/FF - DG.png" alt="" width="60%"> At first, I wanted to just slap Dragonclaw (DG) into the image, but at the same time, I didn't want to at all lmao
+
 <img src="Images/Images for 'art'/CI/FF - GT var3 R6.png" alt="" width="60%">
 <img src="Images/Images for 'art'/CI/FF - GT var3.png" alt="" width="60%"> Because making the entire uncut drop went so well that SoulJynx only wanted part of it due to it being halftime
+
 <img src="Images/Images for 'art'/CI/FF - I.png" alt="" width="60%">
 <img src="Images/Images for 'art'/CI/FF - NEP Mash-up (LxN).png" alt="" width="60%">
 <img src="Images/Images for 'art'/CI/FF - S&DCS2.png" alt="" width="60%">
