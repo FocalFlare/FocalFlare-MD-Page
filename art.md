@@ -1,8 +1,10 @@
-<!-- media.md -->
+<!-- media.md
+<img src="" width="60%">
+<img src="" width="60%">
+<img src="" width="60%">
+<img src="" width="60%">
+-->
 
-Test
+Stuff I made
 
-<img src="" width="60%">
-<img src="" width="60%">
-<img src="" width="60%">
-<img src="" width="60%">
+* [Photomanipulation](photoManipulation.md)

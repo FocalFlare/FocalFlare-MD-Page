@@ -5,3 +5,4 @@
 * [Home](/)
 * [About Me](aboutMe.md)
 * [Art](art.md)
+  * [Photomanipulation](photoManipulation.md)
