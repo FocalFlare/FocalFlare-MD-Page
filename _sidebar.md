@@ -8,4 +8,5 @@
 * [About Me](aboutMe.md)
 * [Art](art.md)
   * [Photomanipulation](photoManipulation.md)
-  * [Smudge Painting](amudgePainting.md)
+  * [Smudge Painting](smudgePainting.md)
+
