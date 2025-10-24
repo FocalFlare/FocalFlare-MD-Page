@@ -1,6 +1,5 @@
-<!-- 
+<!--
 <img src="" alt="" width="60%">
-
 -->
 
 <img src="Images/Images for 'art'/CI/AA - ASBANERMX.png" width="60%">
