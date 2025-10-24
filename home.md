@@ -16,5 +16,8 @@ What is going on y'all, **itzzFocalFlare**.
 - Establisher of "The PIX" playlist network
 - Guy who creates clip compilations for "Random Clips I Took" on Odysee
 
-![Focal Flare logo](<Images/Self Logo - Focal Flare 2023 RAW2.png>)
-![FCL C0MPLEX logo](<Images/Self Logo - FCL C0MPLEX Logo RAW2.png>)
+---
+
+<img src="Images/Self Logo - Focal Flare 2023 RAW2.png" alt="Focal Flare logo" width="100%">
+
+<img src="Images/Self Logo - FCL C0MPLEX Logo RAW2.png" alt="FCL C0MPLEX logo" width="100%">
