@@ -1,4 +1,4 @@
-<!-- <img src="" alt="" width="60%"> -->
+<!-- Template: <img src="" alt="" width="60%"> -->
 
 <img src="Images/Images for 'art'/CI/AA - ASBANERMX.png" width="60%">
 
@@ -51,21 +51,3 @@
 <img src="Images/Images for 'art'/CI/SJ - TLRMX.png" alt="" width="60%">
 
 <img src="Images/Images for 'art'/CI/SxFF - RIVVIP.png" alt="" width="60%">
-
-<!--
-<img src="" alt="" width="60%">
-<img src="" alt="" width="60%">
-<img src="" alt="" width="60%">
-<img src="" alt="" width="60%">
-<img src="" alt="" width="60%">
-<img src="" alt="" width="60%">
-<img src="" alt="" width="60%">
-<img src="" alt="" width="60%">
-<img src="" alt="" width="60%">
-<img src="" alt="" width="60%">
-<img src="" alt="" width="60%">
-<img src="" alt="" width="60%">
-<img src="" alt="" width="60%">
-<img src="" alt="" width="60%">
-<img src="" alt="" width="60%">
--->
