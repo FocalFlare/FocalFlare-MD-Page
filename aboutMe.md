@@ -34,6 +34,7 @@ I have two ongoing series of media. For music, I've established a multi-genre ED
 * Uprise of PIX: A milestone-based series celebrating the collection turning older every 7th year from 2017.
 
 For videos, I have a crap ton of gaming clips that I've taken within the past years and I'm putting them in multiple different compilation videos of several different clips within a series under the name ["Random Clips I Took"](https://www.youtube.com/playlist?list=PLHTN9xwaE13jvWsPhwYjJERQV-AJec0_d). This series is actually split into the following:
+
 * Random Clips I Took - The main series with a basic-ass name—which is also big on activity where I compile compilations of 99-100 clips. These clips are from oldest to newest per folder that I've put them in, and often have the most edits. Shortened down as an acronym to "RCIT".
 * RCIT: Unedited Edition - A private series of compilations that houses any compilation involving edits for excluding parts of any clip, such as certain people talking, certain spoilers of things, or the like. This does not include copyright audio as they are always muted as a legal requirement of YouTube whenever they detect it.
 * RCIT: Shorthazard Edition: A series of compilations that are much shorter than the ones in RCIT. The name "Shorthazard" comes from each compilation usually being short in total length and random in the arrangement of videos. Edits are rare in this series.
@@ -74,3 +75,4 @@ Assume all times being mentioned are in CT.
   * Sometimes I may even go in-depth with things I have some knowledge about as well. I am aware that those things may be too long for people to understand, but knowing how much it bites me back taking classes with assignments that require me to either answer questions in detail that my little knowledge for that question can't do effectively or efficiently or write a 3-page or 7-page essay about something I have to write about that my little skill for that essay also can't do effectively or efficiently, I feel like it will be just as vague if I were to shorten it down.
 
 If any of the above situations ever happens, please be patient and don't fume as I'm just as human as everyone else!
+
