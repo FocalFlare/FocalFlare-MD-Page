@@ -2,6 +2,6 @@
 
 <big><strong>Directory</strong></big>
 
-  * [Home](/)
-  * [About Me](aboutMe.md)
-  * [Art](art.md)
+* [Home](/)
+* [About Me](aboutMe.md)
+* [Art](art.md)
