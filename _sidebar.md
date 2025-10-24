@@ -7,6 +7,6 @@
 * [Home](/)
 * [About Me](aboutMe.md)
 * [Art](art.md)
-  * [Photomanipulation](photoManipulation.md)
-  * [Smudge Painting](smudgePainting.md)
-
+	* [Photomanipulation](photoManipulation.md)
+	* [Smudge Painting](smudgePainting.md)
+	* [3D Renders](3Drenders.md) 
