@@ -10,6 +10,8 @@
 {shortenedNationality:"Irish-American"}
 {sexuality:"LGBTQ+ ally", "asexual"}
 {pronouns:"he/him" (Or my name(s) and they/them when in doubt if you're unsure.)}
+
+{timeZone:CT}
 ```
 
 ## TS;NM
@@ -42,9 +44,9 @@ For videos, I have a crap ton of gaming clips that I've taken within the past ye
 
 Please note that the series is on an indefinite halt on YouTube for reasons surrounding their AI age verification system. [However, I've uploaded if not every RCIT compilation to Odysee prior to this change](https://odysee.com/@itzzFocalFlare:f/Random-Clips-I-Took:9?r=QZHU6SNWfrSM2dALbEHncXqF7vR5qQL8&lid=97436e5a1e70a40fd8deff2ca00f5919b0c09896), so the series will continue from there..
 
-### Time Zone Comparison
-Don't snap at me if I'm "too early or too late" to something because it took place at a time different from mine according to my time zone:
-* The start of a week in the US is every Sunday at 12:00 AM [CT] (central time)
+### [Time Zone Comparison](https://www.timeanddate.com/worldclock/converter.html?p1=tz_ct )🔗↗
+Don't snap at me if I'm "too early or too late" to something because it took place at a time different from mine, according to my time zone:
+* The start of a week in the US is every Sunday. The start time of every week in my time zone is 12:00 AM [[CT] (central time)](https://www.timeanddate.com/time/zones/ct). View a comparison between your time zone and mine by clicking the **Time Zone Conversion** H3 header.
 
 By the way, whenever I say CT/central time, in my words, I'm referring to **central North American time** and not **central European time** (CT, not CET), so my 12:00a CT is different from whatever time it may be for you in CET. I've had some people get the two mixed up, so I'd just like to make that reminder!
 
@@ -75,4 +77,5 @@ Assume all times being mentioned are in CT.
   * Sometimes I may even go in-depth with things I have some knowledge about as well. I am aware that those things may be too long for people to understand, but knowing how much it bites me back taking classes with assignments that require me to either answer questions in detail that my little knowledge for that question can't do effectively or efficiently or write a 3-page or 7-page essay about something I have to write about that my little skill for that essay also can't do effectively or efficiently, I feel like it will be just as vague if I were to shorten it down.
 
 If any of the above situations ever happens, please be patient and don't fume as I'm just as human as everyone else!
+
 
