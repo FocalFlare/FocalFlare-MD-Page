@@ -2,6 +2,8 @@
 
 ---
 
+<img src="favicon.png" width="25%">
+
 *Focal Flare EST. 2019. FCL C0MPLEX EST. 2025.*
 
 Made with 🖤 and a little bit of swag from the US.
@@ -17,3 +19,4 @@ You may NOT sell any material on this site or my platforms to other platforms in
 
 
 Strictly an anti-NFT and anti-crypto project.
+
