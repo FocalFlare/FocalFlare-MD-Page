@@ -39,3 +39,4 @@
 
 <img src="Images/Images for 'art'/3DR/2/UValley with WM.png" alt="" width="60%">
 
+<img src="Images/Images for 'art'/3DR/1/Never Looking Back with WM.png" alt="" width="60%"> No I'm not rebranding to FCL C0MPLEX, but I ditched DeviantArt for posting art on. **Well-needed choice considering that it's nothing but unneeded drama, AI slop, scam bots, and pigeonholing.**
