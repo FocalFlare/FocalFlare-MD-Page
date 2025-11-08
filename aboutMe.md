@@ -52,13 +52,14 @@ By the way, whenever I say CT/central time, in my words, I'm referring to **cent
 
 Assume all times being mentioned are in CT.
 
-### Software I Use(d) (🟥 Exclusive, ❓️ Possible, 🔴 General, ⭕ Tried, ❌ Ditched)
-- Art: 🟥paintdotnet, 🟥Blender, 🟥Plasticity, 🟥MagicaVoxel, 🟥❌️MagicaCSG, 🟥Photopea, ⭕Photoshop, ❓️Inkscape, ⭕Illustrator, ❌️❓️GNU Image Manipulation Program, 🟥SDF Modeler
+### Software I Use(d) 
+(🟥 Exclusive, ❓️ Possible, 🔴 General, ⭕ Tried, ❌ Ditched)
+- Art: 🟥paintdotnet, 🟥Blender, 🟥Plasticity, 🟥MagicaVoxel, 🟥❌️MagicaCSG, 🟥Photopea, ⭕Photoshop, ❓️Inkscape, ⭕Illustrator, ❌️GNU Image Manipulation Program, 🟥SDF Modeler, 🟥Affinity
 - Animation: 🟥Blender
 - Modeling: Blender, 🟥Plasticity, 🔴MagicaVoxel, ❌️MagicaCSG, ❌Clavicula, ⭕Womp, 🟥SDF Modeler
 - Music Production: 🟥Tracktion Waveform, ❌️LMMS, ❌️Caustic
 - Streaming [INDEFINITELY HALTED] and Recording: 🟥OBS Studio
-- Video Editing: ❌Blender, ❌️Olive Editor, 🟥DaVinci Resolve
+- Video Editing: ❌️Blender, ❌️Olive Editor, 🟥DaVinci Resolve
 
 # Trademarks
 * `Loud = Funni`™️
@@ -77,5 +78,6 @@ Assume all times being mentioned are in CT.
   * Sometimes I may even go in-depth with things I have some knowledge about as well. I am aware that those things may be too long for people to understand, but knowing how much it bites me back taking classes with assignments that require me to either answer questions in detail that my little knowledge for that question can't do effectively or efficiently or write a 3-page or 7-page essay about something I have to write about that my little skill for that essay also can't do effectively or efficiently, I feel like it will be just as vague if I were to shorten it down.
 
 If any of the above situations ever happens, please be patient and don't fume as I'm just as human as everyone else!
+
 
 
