@@ -11,3 +11,4 @@
 	* [Smudge Painting](smudgePainting.md)
 	* [3D Renders](3Drenders.md) 
 	* [Cover Images](coverImages.md)
+	* [Miscellaneous](misc.md)
