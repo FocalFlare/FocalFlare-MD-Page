@@ -43,4 +43,4 @@
 
 <img src="Images/Images for 'art'/3DR/3/Never Know with WM.png" alt="" width="60%">
 
-<img src="Images/Images for 'art'/3DR/3/Somewhere Full Collage.png" alt="" width="60%">
+<img src="Images/Images for 'art'/3DR/3/Somewhere Full Collage.png" alt="" width="30%">
