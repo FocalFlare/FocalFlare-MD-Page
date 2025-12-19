@@ -43,4 +43,8 @@
 
 <img src="Images/Images for 'art'/3DR/3/Never Know with WM.png" alt="" width="60%">
 
-<img src="Images/Images for 'art'/3DR/3/Somewhere Full Collage.png" alt="" width="30%">
+<img src="Images/Images for 'art'/3DR/3/KOVA-L5 COMP.png" alt="" width="60%"> The current version of the KOVA-L5 from Flare Armaments (fictional Irish firearm company based in Ireland)
+
+<img src="Images/Images for 'art'/3DR/3/Game State with WM.png" alt="" width="60%">
+
+<img src="Images/Images for 'art'/3DR/3/Sonar with WM.png" alt="" width="60%">
