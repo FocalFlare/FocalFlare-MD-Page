@@ -1,5 +1,7 @@
 <img src="Images/Images for 'art'/MISC/Neuron Activation.png" alt="" width="60%"> The first actual thing I made in Affinity after testing it out for the very first time. Thank Threads for getting me into it from the nonstop discussions about it (I've heard about it becoming one free software already).
+
 <img src="Images/Images for 'art'/MISC/Alpharic Verdance.png" alt="" width="60%">
+
 <img src="Images/Images for 'art'/MISC/Solar Aegis.png" alt="" width="60%">
 
 # Art Fight Unofficial: Zen Arena `[A Focal Flare x Sernak Labs Project]`
