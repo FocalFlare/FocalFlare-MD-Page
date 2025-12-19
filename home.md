@@ -3,9 +3,11 @@ Focal Flare / FCL C0MPLEX
 =========
 ------
 
-What is going on y'all, **itzzFocalFlare**.
+What is going on y'all, **itzzFocalFlare**, aka **FCL C0MPLEX**.
 * [Socials 🔗↗](https://focalflare.carrd.co)
 * [Shareable link to this page](https://share-this.net/?basePath=https://raw.githubusercontent.com/FocalFlare/FocalFlare-MD-Page/main&homepage=home.md&sidebar=true&browser-tab-title=FCL&hide-credits=true&font-family=Arial,sans-serif&font-size=20px&link-color=ff003d&loadFavicon=favicon.png&loadSidebar=_sidebar.md&loadFooter=_footer.md&name=FCL&logo=Images/sidebarIcon.png&searchbox=true&externalLinkTarget=_blank&mergeNavbar=true&zoom-images=true&max-width=80&dark-mode=on#/)
+
+Feel free to leave comments and ask any questions you have via this website repository's discussions page located in the sidebar (must be signed into GitHub)!
 
 # Summary about me
 <big><strong>Just some random giant entity monster or whatever</strong></big>
@@ -25,4 +27,5 @@ What is going on y'all, **itzzFocalFlare**.
 
 <!-- 
 test
+
 -->
