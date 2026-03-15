@@ -25,3 +25,4 @@ During the Art Fight Fossils v. Crystals season, I've turned OC's from Dragoncla
 ---
 
 <img src="Images/Images for 'art'/MISC/An Unlikely All-seeing Encounter.png" alt="" width="60%"> First portrait-oriented image I've made...like ever. This is also what I want to do in terms of directing my "FCL C0MPLEX": making art that still does a lot or does enough with only a few steps and/or elements.
+* <img src="Images/Images for 'art'/3DR/3/An Unlikely All-seeing Encounter Anti-pervert Version.png" alt="" width="60%"> Because people are way too fucking comfortable with making _others_ uncomfortable with their dirty NSFW interpretations on SFW art and "not getting punched in the face for it".
