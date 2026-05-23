@@ -94,13 +94,13 @@ While I like adhering the art to the word prompts, the only prompts I'm focused 
 
 ## [2025 - HLFM](https://artfight.tumblr.com/post/779649204560838656/sprout-fight-prompts)
 This first set doesn't focus on a specific theme, so I just made what came to mind.
-<img src="" alt="" width="60%"> Honey bee
+<img src="Images/Images for 'art'/3DR/Sprout Fight/Embaric_Chaos_with_WM.png" alt="" width="60%"> Honey bee
 
-<img src="" alt="" width="60%"> Lotus flower
+<img src="Images/Images for 'art'/3DR/Sprout Fight/PR0X_HEART_with_WM.png" alt="" width="60%"> Lotus flower
 
-<img src="" alt="" width="60%"> Forget-me-not
+<img src="Images/Images for 'art'/3DR/Sprout Fight/Tunneling_Rift_with_WM.png" alt="" width="60%"> Forget-me-not
 
-<img src="" alt="" width="60%"> Morning glories
+<img src="Images/Images for 'art'/3DR/Sprout Fight/Blavic_Guardian_with_WM.png" alt="" width="60%"> Morning glories
 
 ## [2026 - TMWF](https://artfight.tumblr.com/post/811116415106138112/sprout-fight-2026)
 This second set focuses on the theme of ultra Flaremon. 
@@ -114,10 +114,16 @@ This second set focuses on the theme of ultra Flaremon.
 
 <img src="Images/Images for 'art'/3DR/Sprout Fight/S0L_VRDNT with WM.png" alt="" width="60%"> Frog pond
 *  "Thicc lol" - KitbloodK blueberry Fox
-*  "Extra there > Not only he has a glorious puku (large belly) but a glorious nono (in this instance, bottom backside)"
+*  "Extra there > Not only he has a glorious puku (large belly) but a glorious nono (in this instance, bottom backside)" - Bossmiller
+
+Kitblood and Bossmiller if y'all see this then can y'all stop simping for Flaremon /j
 
 ## Other
 Alternative renders to the above.
+
+<img src="Images/Images for 'art'/3DR/Sprout Fight/Tunneling_Rift_Blare_Angle_with_WM.png" alt="" width="60%">
+
+<img src="Images/Images for 'art'/3DR/Sprout Fight/Tunneling_Rift_Flaremon_Angle_with_WM.png" alt="" width="60%">
 
 <img src="Images/Images for 'art'/3DR/Wide Awake Flaremon Angle with WM.png" alt="" width="60%">
 
@@ -138,10 +144,13 @@ By the way, his eyes from his kaiju form are not supposed to be that of his auri
 <!-- <img src="" alt="" width="60%"> -->
 
 <img src="Images/Images for 'art'/3DR/Sprout Fight/Never Seen with WM.png" alt="" width="60%"> ...until I rendered three other images before this one (in a different category) and this image itself. **Also yes I gave him a shirt for once instead of just him wearing a jacket. Lore-wise, it's not torn, but rather made like that because of [his quirk](https://app.affine.pro/workspace/f6f82c18-dd18-4795-a7a7-58570aed7008/RS-hhJhfaq7CUrvmuM9U4) that he has related to his belly.**
+* <img src="Images/Images for 'art'/3DR/Sprout Fight/Never Seen Low Angle with WM.png" alt="" width="30%">
 
 ~~These two below are actually vent art, but the full images with text in them are probably on my Cara profile:~~
 <img src="Images/Images for 'art'/3DR/Sprout Fight/Censorship against Non-fitting Identity, Silence on Self-expression No Greebles with WM.png" alt="" width="60%"> P1
 <img src="Images/Images for 'art'/3DR/Sprout Fight/Muse Identities of Comforting Self-Expression with WM.png" alt="" width="60%"> P2
 
+<img src="Images/Images for 'art'/3DR/Cryptic Coalition with WM.png" alt="" width="60%">
 
-<img src="" alt="" width="60%">
+<img src="Images/Images for 'art'/3DR/Eccentric past a Volatile Limit with WM.png" alt="" width="60%"> This was made for RainbowDoggieUnicorn's DTIYS for her 28th birthday on March 28th, 2026, which was also hosted in light of her upcoming webcomic series. _There are winners, but she never announced them._
+* <img src="Images/Images for 'art'/3DR/Eccentric past a Volatile Limit Pure version with WM.png" alt="" width="30%">
