@@ -12,4 +12,5 @@
 	* [3D Renders](3Drenders.md) 
 	* [Cover Images](coverImages.md)
 	* [Miscellaneous](misc.md)
- 	* [Guestbook (GitHub Discussions)](https://github.com/FocalFlare/FocalFlare-MD-Page/discussions)
+ 	* [#FocalFlareBTS](behindTheScenes.md)
+* [Guestbook (GitHub Discussions)](https://github.com/FocalFlare/FocalFlare-MD-Page/discussions)
