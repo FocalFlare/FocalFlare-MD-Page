@@ -27,9 +27,8 @@ Just ultra Flaremon
 <img width="100%" alt="Flaremon and someone else he&#39;s holding" src="https://github.com/user-attachments/assets/62e10c74-fe5e-4995-8db8-1dbff67f1c92" />
 Alt (Text prepended with "//" is me talking as Flaremon):
 
-> [Some person in Flaremon's "belly"]: I know you are ginormous as fuck, but how come you are fat?
-> 
-> // False. That's just how I appear. I'm not actually "fat".
+> * [Some person in Flaremon's "belly"]: I know you are ginormous as fuck, but how come you are fat?
+> * // False. That's just how I appear. I'm not actually "fat".
 
 * <img width="100%" alt="Flaremon and someone else he&#39;s holding but I&#39;m looking down at someone" src="https://github.com/user-attachments/assets/5d7143be-03b1-4573-8a63-5a9513f1b4c5" />
 * <img width="100%" alt="Flaremon and someone else he&#39;s holding but I&#39;m looking at you" src="https://github.com/user-attachments/assets/61d79bff-c481-4412-bb7a-c72a187eb2d4" />
